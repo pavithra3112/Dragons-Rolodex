@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pavithra3112/Dragons-Rolodex.git/static/css/main.0277af98.chunk.css",
+    "main.js": "/pavithra3112/Dragons-Rolodex.git/static/js/main.286dc56a.chunk.js",
+    "main.js.map": "/pavithra3112/Dragons-Rolodex.git/static/js/main.286dc56a.chunk.js.map",
+    "runtime-main.js": "/pavithra3112/Dragons-Rolodex.git/static/js/runtime-main.f00a744c.js",
+    "runtime-main.js.map": "/pavithra3112/Dragons-Rolodex.git/static/js/runtime-main.f00a744c.js.map",
+    "static/js/2.27698087.chunk.js": "/pavithra3112/Dragons-Rolodex.git/static/js/2.27698087.chunk.js",
+    "static/js/2.27698087.chunk.js.map": "/pavithra3112/Dragons-Rolodex.git/static/js/2.27698087.chunk.js.map",
+    "index.html": "/pavithra3112/Dragons-Rolodex.git/index.html",
+    "precache-manifest.3fc46549611ec141aa70c3cb570a94ab.js": "/pavithra3112/Dragons-Rolodex.git/precache-manifest.3fc46549611ec141aa70c3cb570a94ab.js",
+    "service-worker.js": "/pavithra3112/Dragons-Rolodex.git/service-worker.js",
+    "static/css/main.0277af98.chunk.css.map": "/pavithra3112/Dragons-Rolodex.git/static/css/main.0277af98.chunk.css.map",
+    "static/js/2.27698087.chunk.js.LICENSE.txt": "/pavithra3112/Dragons-Rolodex.git/static/js/2.27698087.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f00a744c.js",
+    "static/js/2.27698087.chunk.js",
+    "static/css/main.0277af98.chunk.css",
+    "static/js/main.286dc56a.chunk.js"
+  ]
+}
