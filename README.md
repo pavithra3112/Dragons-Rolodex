@@ -9,4 +9,7 @@ It runs on localhost : 3000 port
 
 # Overview
 
-There is list of dragon cards and you can search for your favourite one.  
+There is list of dragon cards and you can search for your favourite one using the search.
+
+It is implemented using React Hooks( UseEffect, UseState ) 
+
