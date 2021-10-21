@@ -5,7 +5,7 @@ This project build on React V17.0.2 version.
 
 Command - npm start run
 
-It runs on localhost:3000 port
+It runs on localhost : 3000 port
 
 # Overview
 
